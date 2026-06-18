@@ -2,8 +2,8 @@ wwwroot\assets\css\400\400.css
 wwwroot\assets\css\401\401.css
 wwwroot\assets\css\404\404.css
 wwwroot\assets\css\about\about.css
-wwwroot\assets\css\blog\blog.css
 wwwroot\assets\css\blogdetail\blogdetail.css
+wwwroot\assets\css\blog\blog.css
 wwwroot\assets\css\common\animate.css
 wwwroot\assets\css\common\bootstrap.min.css
 wwwroot\assets\css\common\magnific-popup.css
@@ -68,8 +68,8 @@ wwwroot\assets\images\common\f.jpg
 wwwroot\assets\images\common\favicon-16x16.png
 wwwroot\assets\images\common\fet.jpg
 wwwroot\assets\images\common\ff.jpg
-wwwroot\assets\images\common\footer.looggoooo.jpg
 wwwroot\assets\images\common\footer-bg-image.jpg
+wwwroot\assets\images\common\footer.looggoooo.jpg
 wwwroot\assets\images\common\frees.jpg
 wwwroot\assets\images\common\g.jpg
 wwwroot\assets\images\common\Gelato.jpg
@@ -78,8 +78,8 @@ wwwroot\assets\images\common\Giorgio Milos.jpg
 wwwroot\assets\images\common\h.jpg
 wwwroot\assets\images\common\header-sidebar-btn.svg
 wwwroot\assets\images\common\helloo.jpg
-wwwroot\assets\images\common\hero-bg.jpg
 wwwroot\assets\images\common\hero-bg-2.jpg
+wwwroot\assets\images\common\hero-bg.jpg
 wwwroot\assets\images\common\hetttetetete.jpg
 wwwroot\assets\images\common\hhh.jpg
 wwwroot\assets\images\common\hhhhhhhhhhh.jpg
@@ -93,13 +93,13 @@ wwwroot\assets\images\common\Iced Americano.jpg
 wwwroot\assets\images\common\Iced Caramel Macchiato.jpg
 wwwroot\assets\images\common\Iced Mocha.jpg
 wwwroot\assets\images\common\iceddd.jpg
-wwwroot\assets\images\common\icon-location.svg
 wwwroot\assets\images\common\icon-location-accent.svg
-wwwroot\assets\images\common\icon-mail.svg
+wwwroot\assets\images\common\icon-location.svg
 wwwroot\assets\images\common\icon-mail-accent (1).svg
 wwwroot\assets\images\common\icon-mail-accent.svg
-wwwroot\assets\images\common\icon-phone.svg
+wwwroot\assets\images\common\icon-mail.svg
 wwwroot\assets\images\common\icon-phone-accent.svg
+wwwroot\assets\images\common\icon-phone.svg
 wwwroot\assets\images\common\icon-story-1.svg
 wwwroot\assets\images\common\icon-story-2.svg
 wwwroot\assets\images\common\icon-story-3.svg
@@ -172,17 +172,17 @@ wwwroot\assets\images\home\why 5.svg
 wwwroot\assets\images\home\why 6.svg
 wwwroot\assets\js\404\404.js
 wwwroot\assets\js\about\about.js
-wwwroot\assets\js\blog\blog.js
 wwwroot\assets\js\blogdetail\blogdetail.js
+wwwroot\assets\js\blog\blog.js
 wwwroot\assets\js\common\gsap.min.js
 wwwroot\assets\js\common\isotope.min.js
+wwwroot\assets\js\common\jquery-3.7.1.min.js
 wwwroot\assets\js\common\jquery.counterup.min.js
 wwwroot\assets\js\common\jquery.magnific-popup.min copy.js
 wwwroot\assets\js\common\jquery.magnific-popup.min.js
 wwwroot\assets\js\common\jquery.mb.YTPlayer.min.js
 wwwroot\assets\js\common\jquery.slicknav.js
 wwwroot\assets\js\common\jquery.waypoints.min.js
-wwwroot\assets\js\common\jquery-3.7.1.min.js
 wwwroot\assets\js\common\magiccursor.js
 wwwroot\assets\js\common\parallaxie.js
 wwwroot\assets\js\common\ScrollTrigger.min.js
@@ -213,6 +213,20 @@ wwwroot\uploads\4c1598fe-b7bb-48dc-9009-e201ebf85b7b.jpg
 wwwroot\uploads\56004adf-578d-4086-8982-f707ebe18ebc.jpg
 wwwroot\uploads\8ad13502-1cc2-4347-a40a-015c830e956f.jpg
 wwwroot\uploads\aboutbanner\0f47bd33-d86e-42b2-8ff7-faf3115ec606.jpg
+wwwroot\uploads\approachicons\16617044-e65b-465a-a8b2-98ab3d2b7e54.jpg
+wwwroot\uploads\approachicons\2e71fa01-5da0-4868-badb-3c9d6ccf7ed5.jpg
+wwwroot\uploads\approachicons\357a1f9b-7b65-41ea-b4fe-8231be11b91e.svg
+wwwroot\uploads\approachicons\415084d3-06b2-4484-9374-016b7c667349.svg
+wwwroot\uploads\approachicons\59e15dbc-5867-4a5f-abde-01efaa2662af.svg
+wwwroot\uploads\approachicons\61a04664-d6d7-4777-ac21-9cedad37a066.svg
+wwwroot\uploads\approachicons\862ae3f2-a43c-4020-a0a1-40e3ea6ca7d3.svg
+wwwroot\uploads\approachicons\b2c45dc7-ad90-4b2d-985a-c74f429edd43.jpg
+wwwroot\uploads\approachicons\c3eb23a4-9542-471a-aa22-0eb7b3fcae45.jpg
+wwwroot\uploads\approachicons\d0887b00-0122-4b26-8719-d88be82b3dde.jpg
+wwwroot\uploads\approachicons\d1bf91ba-86a7-4b9e-aae8-3db2e1e2df2b.svg
+wwwroot\uploads\approachicons\e0723add-ae3e-4d50-950d-cf348b6c3176.svg
+wwwroot\uploads\approachicons\eadfaa47-610d-436a-a7cc-81e10e795007.jpg
+wwwroot\uploads\approachicons\f9b371c4-ae24-41be-89b1-8ac8b3afa9ee.jpg
 wwwroot\uploads\approach\0cbc3c47-b3e0-4556-a1d3-ec232074786c.jpg
 wwwroot\uploads\approach\21fb4076-cdfb-438d-964c-a16b192314d4.jpg
 wwwroot\uploads\approach\22780807-1c44-4e2e-b64b-e1d1e874ca51.jpg
@@ -228,20 +242,6 @@ wwwroot\uploads\approach\inek - Copy_90d2e2b8-59bd-4b68-83ea-76dc1dd92411.jpg
 wwwroot\uploads\approach\inek_0ef2f937-b3e3-42b2-a163-c90f10585e72.jpg
 wwwroot\uploads\approach\inek_7554efbb-26ee-4f72-ac3b-05a229013638.jpg
 wwwroot\uploads\approach\inek_ac13f120-5ce5-4053-8501-bc4c25367aca.jpg
-wwwroot\uploads\approachicons\16617044-e65b-465a-a8b2-98ab3d2b7e54.jpg
-wwwroot\uploads\approachicons\2e71fa01-5da0-4868-badb-3c9d6ccf7ed5.jpg
-wwwroot\uploads\approachicons\357a1f9b-7b65-41ea-b4fe-8231be11b91e.svg
-wwwroot\uploads\approachicons\415084d3-06b2-4484-9374-016b7c667349.svg
-wwwroot\uploads\approachicons\59e15dbc-5867-4a5f-abde-01efaa2662af.svg
-wwwroot\uploads\approachicons\61a04664-d6d7-4777-ac21-9cedad37a066.svg
-wwwroot\uploads\approachicons\862ae3f2-a43c-4020-a0a1-40e3ea6ca7d3.svg
-wwwroot\uploads\approachicons\b2c45dc7-ad90-4b2d-985a-c74f429edd43.jpg
-wwwroot\uploads\approachicons\c3eb23a4-9542-471a-aa22-0eb7b3fcae45.jpg
-wwwroot\uploads\approachicons\d0887b00-0122-4b26-8719-d88be82b3dde.jpg
-wwwroot\uploads\approachicons\d1bf91ba-86a7-4b9e-aae8-3db2e1e2df2b.svg
-wwwroot\uploads\approachicons\e0723add-ae3e-4d50-950d-cf348b6c3176.svg
-wwwroot\uploads\approachicons\eadfaa47-610d-436a-a7cc-81e10e795007.jpg
-wwwroot\uploads\approachicons\f9b371c4-ae24-41be-89b1-8ac8b3afa9ee.jpg
 wwwroot\uploads\b66b91fa-d414-4397-a15d-d4a27d111995.jpg
 wwwroot\uploads\blogbanner\546e0261-d31c-416e-b615-92e7afb88ec1.jpg
 wwwroot\uploads\blogdetailbanner\7b2c9276-e7a5-480b-af64-631199b977e8.jpg
@@ -483,6 +483,7 @@ wwwroot\uploads\storyicons\7654d1c5-8320-4ae2-98e5-bc4b028e8cba.svg
 wwwroot\uploads\storyicons\ecbf0b49-1f8d-452c-a472-732dfd66af62.svg
 wwwroot\uploads\storyicons\f303616b-653f-4001-a85a-71dbf8554598.svg
 wwwroot\uploads\storyicons\f427cd4c-8d3e-4222-b7f8-97bcaa024a8b.svg
+wwwroot\uploads\teambanner\9f27e1a4-0139-4015-a763-3e5470677c32.jpg
 wwwroot\uploads\team\06f7f2d1-d89c-43bc-a21a-804a5739ae8a.jpg
 wwwroot\uploads\team\2b3c12c1-38c5-4656-9fed-f9ed9d6672ae.jpg
 wwwroot\uploads\team\51c5619a-2a28-41fb-bd0d-f841ecd1e9dd.jpg
@@ -490,7 +491,6 @@ wwwroot\uploads\team\5c4f6436-f889-4ad4-a177-69cce627d724.jpg
 wwwroot\uploads\team\6526cc8b-820c-46d2-b065-30c046d73623.jpg
 wwwroot\uploads\team\8f4ae753-5419-477b-8868-85ed453aa88f.jpg
 wwwroot\uploads\team\dd832474-9694-4164-99c5-42d07cc9cd30.jpg
-wwwroot\uploads\teambanner\9f27e1a4-0139-4015-a763-3e5470677c32.jpg
 wwwroot\uploads\videos\1038b89f-3b3d-4849-9dcf-c661681ddc2a.mp4
 wwwroot\uploads\videos\2bc6df63-6cd4-4455-8d54-918ba4d663b9.mp4
 wwwroot\uploads\videos\31ed6183-666f-49b1-842c-7bce09c85b92.mp4
