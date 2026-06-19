@@ -17,881 +17,881 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalProjectMvc
 build_property.RootNamespace = FinalProjectMvc
-build_property.ProjectDir = C:\Users\user\Desktop\Home\PB103\FinalProject.MVC_Aydan\FinalProjectMvc\FinalProjectMvc\
+build_property.ProjectDir = D:\API (Pb-202) _ Task\CafeProject\FinalProjectMvc\FinalProjectMvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\Home\PB103\FinalProject.MVC_Aydan\FinalProjectMvc\FinalProjectMvc
+build_property.MSBuildProjectDirectory = D:\API (Pb-202) _ Task\CafeProject\FinalProjectMvc\FinalProjectMvc
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRCYW5uZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRCYW5uZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRCYW5uZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRCYW5uZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRSZXN0YXVyYW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRSZXN0YXVyYW50XERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRSZXN0YXVyYW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutRestaurant/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRSZXN0YXVyYW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc0l0ZW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc0l0ZW1cRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc0l0ZW1cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUsItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc0l0ZW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/AboutUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRVc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hJdGVtXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hJdGVtXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hJdGVtXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ApproachItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hJdGVtXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Approach/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQXBwcm9hY2hcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0Jhbm5lclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0Jhbm5lclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0Jhbm5lclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0Jhbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbEJhbm5lclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbEJhbm5lclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbEJhbm5lclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/BlogDetailBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ0RldGFpbEJhbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWxvZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWxvZ1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWxvZ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Catalog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0YWxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/CategoryType/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/CategoryType/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlUeXBlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/CategoryType/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/CategoryType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlUeXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdEJhbm5lclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdEJhbm5lclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdEJhbm5lclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdEJhbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactMessage/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactMessage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdE1lc3NhZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactMessage/Reply.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactMessage/Reply.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdE1lc3NhZ2VcUmVwbHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFVzXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ContactUs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Dashboard/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqCategory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxSXRlbVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxSXRlbVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxSXRlbVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxSXRlbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxc0Jhbm5lclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxc0Jhbm5lclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxc0Jhbm5lclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/FaqsBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmFxc0Jhbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9Db3VudGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9Db3VudGVyXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9Db3VudGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroCounter/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9Db3VudGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9WaWRlb1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9WaWRlb1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9WaWRlb1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/IntroVideo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSW50cm9WaWRlb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUJhbm5lclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUJhbm5lclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUJhbm5lclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/MenuBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVudUJhbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJbWFnZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJbWFnZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJbWFnZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferImage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJbWFnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJdGVtXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJdGVtXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJdGVtXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OfferItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT2ZmZXJJdGVtXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlbmluZ0hvdXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlbmluZ0hvdXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlbmluZ0hvdXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OpeningHour/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3BlbmluZ0hvdXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyT2ZmZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyT2ZmZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyT2ZmZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurOffer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyT2ZmZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyU3RvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyU3RvcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyU3RvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/OurStory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcT3VyU3RvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25CYW5uZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25CYW5uZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25CYW5uZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ReservationBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25CYW5uZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Reservation/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Reservation/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25cRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Reservation/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Reservation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Nyb2xsaW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Nyb2xsaW5nXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Nyb2xsaW5nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Scrolling/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Nyb2xsaW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUl0ZW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUl0ZW1cRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUl0ZW1cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/ServiceItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZUl0ZW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Setting/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2V0dGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Shared/_Layout.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Size/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Size/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2l6ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Size/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Size/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2l6ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Slider/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2xpZGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcnlJdGVtXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcnlJdGVtXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcnlJdGVtXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/StoryItem/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RvcnlJdGVtXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Subscribe/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Subscribe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3Vic2NyaWJlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Table/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Table/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Table/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Table/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Table/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Table/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGFibGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbUJhbm5lclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbUJhbm5lclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbUJhbm5lclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamBanner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbUJhbm5lclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/TeamMember/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVhbU1lbWJlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Create.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wYmFyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Detail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wYmFyXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Edit.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wYmFyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/Topbar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVG9wYmFyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/User/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/_ViewImports.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/_ViewStart.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/About/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Account/ForgotPassword.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Account/Login.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Account/Register.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Account/ResetPassword.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Account/VerifyEmail.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Account/VerifyEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxWZXJpZnlFbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Account/VerifyResetPassword.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Account/VerifyResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxWZXJpZnlSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/BadRequest/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/BadRequest/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFkUmVxdWVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/BlogDetail/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/BlogDetail/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ0RldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Blog/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Contact/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Contact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Faqs/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Faqs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFxc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Home/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Home/Search.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Home/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Menu/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Menu/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Menu/Search.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Menu/Search.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxTZWFyY2guY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/NotFound/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/NotFound/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90Rm91bmRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Payment/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Payment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Payment/Success.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Payment/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxTdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Reservation/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Reservation/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Reservation/Success.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Reservation/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXRpb25cU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/About/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/About/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Approach/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Approach/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQXBwcm9hY2hcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Banner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Banner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmFubmVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0Jhbm5lclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogDetailBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogDetailBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0RldGFpbEJhbm5lclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogDetail/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogDetail/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0RldGFpbFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogStory/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/BlogStory/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ1N0b3J5XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/ContactBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/ContactBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdEJhbm5lclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Contact/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Contact/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/FaqsBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/FaqsBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmFxc0Jhbm5lclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Faqs/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Faqs/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmFxc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Footer/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Footer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/GoogleMap/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/GoogleMap/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR29vZ2xlTWFwXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Header/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Header/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Interactive/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Interactive/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW50ZXJhY3RpdmVcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Intro/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Intro/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW50cm9cRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/MenuBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/MenuBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudUJhbm5lclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Menu/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Menu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Offer/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Offer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcT2ZmZXJcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Pricing/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Pricing/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUHJpY2luZ1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/ReservationBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/ReservationBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVzZXJ2YXRpb25CYW5uZXJcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Reservation/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Reservation/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVzZXJ2YXRpb25cRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Restaurant/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Restaurant/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVzdGF1cmFudFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Scrolling/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Scrolling/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2Nyb2xsaW5nXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Slider/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Slider/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Story/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Story/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RvcnlcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Subscribe/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Subscribe/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3Vic2NyaWJlXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/TeamBanner/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/TeamBanner/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVhbUJhbm5lclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/TeamSection/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/TeamSection/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVhbVNlY3Rpb25cRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Team/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Team/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVhbVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Why/Default.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/Components/Why/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV2h5XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/_BlogPartial.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/_BlogPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbG9nUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/_ContactFormPartial.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/_ContactFormPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0Rm9ybVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/_SearchPartial.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/_SearchPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Team/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Team/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Unauthorized/Index.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Unauthorized/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5hdXRob3JpemVkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/_ViewImports.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/_ViewStart.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/user/Desktop/Home/PB103/FinalProject.MVC_Aydan/FinalProjectMvc/FinalProjectMvc/Views/Shared/_Layout.cshtml]
+[D:/API (Pb-202) _ Task/CafeProject/FinalProjectMvc/FinalProjectMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a9sy3dubzp
