@@ -8572,11 +8572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\FinalProjectMvc.csproj",
+      "projectUniqueName": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\FinalProjectMvc.csproj",
       "projectName": "FinalProjectMvc",
-      "projectPath": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\FinalProjectMvc.csproj",
+      "projectPath": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\FinalProjectMvc.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\obj\\",
+      "outputPath": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

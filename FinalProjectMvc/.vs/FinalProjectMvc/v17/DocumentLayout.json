@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\",
+  "WorkspaceRootPath": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\api (pb-202) _ task\\cafeproject\\finalprojectmvc\\finalprojectmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\main projects\\cafeproject\\finalprojectmvc\\finalprojectmvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|solutionrelative:finalprojectmvc\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\main projects\\cafeproject\\finalprojectmvc\\finalprojectmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|solutionrelative:finalprojectmvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\api (pb-202) _ task\\cafeproject\\finalprojectmvc\\finalprojectmvc\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\main projects\\cafeproject\\finalprojectmvc\\finalprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|solutionrelative:finalprojectmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\main projects\\cafeproject\\finalprojectmvc\\finalprojectmvc\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|solutionrelative:finalprojectmvc\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\api (pb-202) _ task\\cafeproject\\finalprojectmvc\\finalprojectmvc\\areas\\admin\\controllers\\categorytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|d:\\main projects\\cafeproject\\finalprojectmvc\\finalprojectmvc\\areas\\admin\\controllers\\categorytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8786AF5B-F1C2-4FAE-8346-4B0A20023DF4}|FinalProjectMvc\\FinalProjectMvc.csproj|solutionrelative:finalprojectmvc\\areas\\admin\\controllers\\categorytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,36 +39,61 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\.gitignore",
+              "RelativeDocumentMoniker": "FinalProjectMvc\\.gitignore",
+              "ToolTip": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\.gitignore",
+              "RelativeToolTip": "FinalProjectMvc\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2026-08-19T20:40:36.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProjectMvc\\appsettings.json",
+              "ToolTip": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\appsettings.json",
+              "RelativeToolTip": "FinalProjectMvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T20:35:50.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\appsettings.Development.json",
               "RelativeDocumentMoniker": "FinalProjectMvc\\appsettings.Development.json",
-              "ToolTip": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\appsettings.Development.json",
+              "ToolTip": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\appsettings.Development.json",
               "RelativeToolTip": "FinalProjectMvc\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-19T12:30:25.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "DocumentMoniker": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "FinalProjectMvc\\Areas\\Admin\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\BlogController.cs",
               "RelativeToolTip": "FinalProjectMvc\\Areas\\Admin\\Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T09:36:42.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T09:36:42.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoryTypeController.cs",
-              "DocumentMoniker": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\CategoryTypeController.cs",
+              "DocumentMoniker": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\CategoryTypeController.cs",
               "RelativeDocumentMoniker": "FinalProjectMvc\\Areas\\Admin\\Controllers\\CategoryTypeController.cs",
-              "ToolTip": "D:\\API (Pb-202) _ Task\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\CategoryTypeController.cs",
+              "ToolTip": "D:\\Main Projects\\CafeProject\\FinalProjectMvc\\FinalProjectMvc\\Areas\\Admin\\Controllers\\CategoryTypeController.cs",
               "RelativeToolTip": "FinalProjectMvc\\Areas\\Admin\\Controllers\\CategoryTypeController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
